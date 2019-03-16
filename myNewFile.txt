@@ -1,1 +1,2 @@
 Ths is my Text file. Hello Test
+New line added in the text file to test if it can be committed without adding it to git
